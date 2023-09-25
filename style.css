@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Poppins:ital,wght@1,200&family=Rubik+Iso&display=swap');
+
+*{
+   background-color: rgb(18,25,33);
+}
+body {
+    font-family: 'Cabin', sans-serif;
+    background-color: rgb(36,48,64);
+    
+}
+#Back {
+    padding-top: 115px;
+}
+#cart {
+    position: absolute; top: 20px; right: 50px;
+}
+#RO {
+    color: aliceblue;
+    position: absolute; top: 20px; right: 150px;
+}
+#cr {
+    color: aliceblue;
+    position: absolute; top: 35px; right: 20px;
+
+}
+#orders {
+    color: aliceblue;
+    position: absolute; top: 40px; right: 140px;
+
+
+}
+#HSI {
+    color: aliceblue;
+    position: absolute; top: 20px; right: 275px;
+}
+#Accounts {
+    color: aliceblue;
+    position: absolute; top: 40px; right: 253px;
+}
+#flag{
+    position: absolute; top: 35px; right: 425px;
+}
+#search {
+    color: white;
+    position: absolute; top: 35px; right: 425px;
+    
+}
+#hello {
+    color: white;
+    position: absolute; top: 20px; left: 200px;
+    
+}
+#address {
+    color: aliceblue;
+    position: absolute; top: 40px; left: 200px;
+}
+#location{
+    max-width: 50%;
+}
+#logo{
+    position: absolute; top: 19px; left: 0px;
+}
+
+#top{
+    font-size: 15px;
+    background-color: rgb(36,48,64);
+    color: aliceblue;
+    position: absolute; top: 75px; left: 35px;
+    border-spacing: 60px;
+}
+#tab {
+    border-spacing: 15px;
+}
+#lion {
+    
+    position: absolute; top: 75px; left: 1100px;
+}
+#pr {
+    color: aliceblue;
+    position: absolute; top: 60px; left: 1300px;
+    font-size: 10px;
+}
+#date{
+    color: aliceblue;
+    position: absolute; top: 100px; left: 1375px;
+    font-size: 15px;
+}
+#First{
+   background-color: antiquewhite;
+   color: aliceblue;
+   position: absolute; bottom: 0px; left: 0px;
+   
+}
+
+#hd {
+    position: absolute; bottom: 220px; left: 30px;
+    font-size: 15px;
+    background-color: aliceblue;
+    color: black;
+}
+#tv {
+    position: absolute; bottom: 80px; left: 30px;
+    
+}
+
+#s {
+    position: absolute; bottom: 50px; left: 30px;
+    font-size: 15px;
+    color: aliceblue;
+}
+#fridge {
+    position: absolute; bottom: 80px; left: 230px;
+}
+#ap {
+    position: absolute; bottom: 50px; left: 230px;
+    color: aliceblue;
+}
+#fur {
+    position: absolute; bottom: px; left: 30px;
+}
+#f {
+    position: absolute; top: 825px; left: 30px;
+    color: aliceblue;
+}
+#kitch {
+    position: absolute; top: px; left: 230px;
+
+}
+#kk {
+    position: absolute; top: 825px; left: 230px;
+    color: aliceblue;
+}
+
+#Second{
+    background-color: antiquewhite;
+    color: aliceblue;
+    position: absolute; bottom: 0px; left: 0px;
+    
+ }
+ 
+ #hdd {
+     position: absolute; bottom: 220px; right: 850px;
+     font-size: 15px;
+     background-color: aliceblue;
+     color: black;
+ }
+ #bed {
+     position: absolute; bottom: 80px; left: 490px;
+     
+ }
+ 
+ #bd {
+     position: absolute; bottom: 50px; left: 490px;
+     font-size: 15px;
+     color: aliceblue;
+ }
+ #decor {
+     position: absolute; bottom: 80px; left: 700px;
+ }
+ #dc {
+     position: absolute; bottom: 50px; left: 700px;
+     color: aliceblue;
+ }
+ #storage {
+     position: absolute; bottom: px; left: 490px;
+ }
+ #st {
+     position: absolute; top: 825px; left: 490px;
+     color: aliceblue;
+ }
+ #light {
+     position: absolute; top: px; left: 700px;
+ 
+ }
+ #lt {
+     position: absolute; top: 825px; left: 700px;
+     color: aliceblue;
+ }
+ #hddd {
+    position: absolute; bottom: 220px; right: 350px;
+    font-size: 15px;
+    background-color: aliceblue;
+    color: black;
+ }
+ #sale {
+    position: absolute; top: 510px; left: 950px;
+    font-size: 15px;
+    color: aliceblue;
+ }
