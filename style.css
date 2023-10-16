@@ -187,3 +187,11 @@ body {
     font-size: 15px;
     color: aliceblue;
  }
+
+ @media only screen and (max-width: 600px) {
+    header {
+      height: 200px;
+      font-size: 15px;
+      text-align: start;
+    }
+}
